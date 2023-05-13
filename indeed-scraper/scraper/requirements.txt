@@ -1,0 +1,7 @@
+requests
+bs4
+click
+pytest
+webdriver_manager
+playwright-stealth
+playwright
